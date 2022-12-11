@@ -1,0 +1,11 @@
+>mode,zm
+>type,common
+
+#include "zm_mod.class"
+
+//PAP Camo & Online Game Registration
+scriptparsetree,scripts/zm/_load.gsc
+scriptparsetree,scripts/zm/_zm_utility.gsc
+
+ignore_missing_shipped,core_patch
+ignore_missing_shipped,zm_levelcommon

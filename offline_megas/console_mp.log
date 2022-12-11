@@ -1,0 +1,500 @@
+[  91209][         ]  Build 0
+logfile opened on Thu Nov 03 18:37:34 2022
+
+[  91209][         ]  execing gamedata/configs/zm/ragdoll.cfg from fastfile
+[  91212][         ]  ==== ShutdownGame (1) ====
+[  91218][       DB]  Unloading assets from fastfile 'core_frontend' and creating default assets stubs
+[  91481][    SOUND]  SOUND Removing Bank 6 core_frontend.all patch
+[  91486][    SOUND]  SOUND Removing Bank 7 core_frontend.all 
+[  91502][       DB]  Unloading assets from fastfile 'en_core_frontend' and creating default assets stubs
+[  91503][    SOUND]  SOUND Removing Bank 8 core_frontend.en patch
+[  91503][    SOUND]  SOUND Removing Bank 9 core_frontend.en 
+[  91505][       DB]  Unloading assets from fastfile 'core_frontend_patch' and creating default assets stubs
+[  91580][    SOUND]  SOUND Removing Bank 0 core_frontend_patch.all 
+[  91648][       DB]  Unloading assets from fastfile 'en_core_frontend_patch' and creating default assets stubs
+[  91649][    SOUND]  SOUND Removing Bank 1 core_frontend_patch.en 
+[  91823][       DB]  Unloaded fastfile 'core_frontend'
+[  91843][       DB]  Unloaded fastfile 'en_core_frontend'
+[  91843][       DB]  Unloaded fastfile 'core_frontend_patch'
+[  91850][       DB]  Unloaded fastfile 'en_core_frontend_patch'
+[  91858][         ]  Starting up server with abort_on_error TRUE
+[  91858][         ]  Starting up server with developer TRUE
+[  92979][         ]  Starting up server with abort_on_error TRUE
+[  92979][         ]  Starting up server with developer TRUE
+[  92994][       DB]  Error: Could not find material "specialty_instakill_zombies".
+[  92994][       DB]  Error: Could not find material "specialty_doublepoints_zombies".
+[  92994][       DB]  Error: Could not find material "specialty_doublepoints_zombies_blue".
+[  92994][       DB]  Error: Could not find material "specialty_firesale_zombies".
+[  92994][       DB]  Error: Could not find material "zom_icon_bonfire".
+[  92994][       DB]  Error: Could not find material "t7_hud_zm_powerup_deathmachine".
+[  92994][       DB]  Error: Could not find material "t7_zm_hd_specialty_zmblood".
+[  93010][       DB]  Error: Could not find material "specialty_giant_instakill_zombies".
+[  93010][       DB]  Error: Could not find material "specialty_giant_doublepoints_zombies".
+[  93010][       DB]  Error: Could not find material "specialty_giant_firesale_zombies".
+[  93010][       DB]  Error: Could not find material "t7_hud_zm_powerup_giant_deathmachine".
+[  94068][       DB]  Unloading assets from fastfile 'core_specialists' and creating default assets stubs
+[  94498][       DB]  Unloading assets from fastfile 'en_core_specialists' and creating default assets stubs
+[  94498][         ]  Removed xpak file: core_specialists
+[  94596][       DB]  Unloaded fastfile 'core_specialists'
+[  94603][       DB]  Unloaded fastfile 'en_core_specialists'
+[  94604][       DB]  FastFileLoad: Setting en_zm_theater_patch to XZONE_LOADING.
+[  94604][       DB]  FastFileLoad: en_zm_theater_patch, FastFilePriority: 1118
+[  94605][       DB]  Loading fastfile 'en_zm_theater_patch'
+[  94605][    SOUND]  SOUND Adding Bank zm_theater_patch.en 1118 normal
+[  94606][         ]  Added XPaks for en_zm_theater_patch, 1ms
+[  94688][       DB]  Loading sounds for 'en_zm_theater_patch'
+[  94688][    SOUND]  SOUND load state for zm_theater_patch.en changed from 0 to 1
+[  94719][    SOUND]  SOUND load state for zm_theater_patch.en changed from 1 to 2
+[  94749][    SOUND]  SOUND load state for zm_theater_patch.en changed from 2 to 3
+[  94780][    SOUND]  SOUND load state for zm_theater_patch.en changed from 3 to 4
+[  94810][    SOUND]  SOUND load state for zm_theater_patch.en changed from 4 to 5
+[  94841][    SOUND]  SOUND load state for zm_theater_patch.en changed from 5 to 6
+[  94871][    SOUND]  SOUND load state for zm_theater_patch.en changed from 6 to 7
+[  94902][       DB]  Loaded sounds for 'en_zm_theater_patch' 214ms
+[  94902][       DB]  FastFileLoad: Setting en_zm_theater_patch to XZONE_LOADED in 298ms.
+[  94902][       DB]  FastFileLoad: Setting zm_theater_patch to XZONE_LOADING.
+[  94902][       DB]  FastFileLoad: zm_theater_patch, FastFilePriority: 1119
+[  94903][       DB]  Loading fastfile 'zm_theater_patch'
+[  94906][         ]  Added XPaks for zm_theater_patch, 0ms
+[  94965][    SOUND]  SOUND Adding Bank zm_theater_patch.all 1119 normal
+[  94989][       DB]  Loading sounds for 'zm_theater_patch'
+[  94989][    SOUND]  SOUND load state for zm_theater_patch.all changed from 0 to 1
+[  95020][    SOUND]  SOUND entry alloc D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III/zone/snd/all/zm_theater_patch.all.sabs 7
+[  95020][    SOUND]  SOUND load state for zm_theater_patch.all changed from 1 to 2
+[  95050][    SOUND]  SOUND load state for zm_theater_patch.all changed from 2 to 3
+[  95081][    SOUND]  SOUND entry alloc D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III/zone/snd/all/zm_theater_patch.all.sabl 408
+[  95081][    SOUND]  SOUND load state for zm_theater_patch.all changed from 3 to 4
+[  95111][    SOUND]  SOUND load state for zm_theater_patch.all changed from 4 to 5
+[  95145][    SOUND]  SOUND loaded alloc D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III/zone/snd/all/zm_theater_patch.all.sabl 00000152D9A63300 00000152EDD3B000
+[  95145][    SOUND]  SOUND load state for zm_theater_patch.all changed from 5 to 6
+[  95206][    SOUND]  SOUND load state for zm_theater_patch.all changed from 6 to 7
+[  95237][       DB]  Loaded sounds for 'zm_theater_patch' 248ms
+[  95237][       DB]  FastFileLoad: Setting zm_theater_patch to XZONE_LOADED in 335ms.
+[  95237][       DB]  FastFileLoad: Setting en_zm_theater to XZONE_LOADING.
+[  95237][       DB]  FastFileLoad: en_zm_theater, FastFilePriority: 1018
+[  95240][       DB]  Loading fastfile 'en_zm_theater'
+[  95248][       DB]  Redundant image asset 'i_c_gen_reveal_1k_rec_horiz_r' found in zone 'core_common' while loading zone 'en_zm_theater'
+[  95369][       DB]  Redundant techset asset 'mc/lit#e6142445' found in zone 'core_pre_gfx' while loading zone 'en_zm_theater'
+[  95373][       DB]  Redundant image asset '$identitynormalmap' found in zone 'core_patch' while loading zone 'en_zm_theater'
+[  95373][       DB]  Redundant image asset '$white_diffuse' found in zone 'core_pre_gfx' while loading zone 'en_zm_theater'
+[  95374][       DB]  Redundant image asset '$black_color' found in zone 'core_pre_gfx' while loading zone 'en_zm_theater'
+[  95375][       DB]  Redundant techset asset 'mc/lit_weapon#e6142445' found in zone 'core_common' while loading zone 'en_zm_theater'
+[  95375][       DB]  Redundant image asset '$specular' found in zone 'core_patch' while loading zone 'en_zm_theater'
+[  95379][         ]  Added xpak file: en_zm_theater (22 items)
+[  95379][         ]  Added xpak file: zm_theater (9874 items)
+[  95380][         ]  xpak is empty: D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III/zone/en_zm_theater_d.xpak
+[  95380][         ]  xpak is empty: D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III/zone/zm_theater_d.xpak
+[  95380][         ]  Added XPaks for en_zm_theater, 2ms
+[  95428][    SOUND]  SOUND Adding Bank zm_theater.en 1018 patch
+[  95466][       DB]  Loading sounds for 'en_zm_theater'
+[  95467][    SOUND]  SOUND load state for zm_theater.en patch changed from 0 to 1
+[  95488][    SOUND]  SOUND load state for zm_theater.en patch changed from 1 to 2
+[  95497][    SOUND]  SOUND load state for zm_theater.en patch changed from 2 to 3
+[  95528][    SOUND]  SOUND load state for zm_theater.en patch changed from 3 to 4
+[  95548][    SOUND]  SOUND load state for zm_theater.en patch changed from 4 to 5
+[  95558][    SOUND]  SOUND load state for zm_theater.en patch changed from 5 to 6
+[  95589][    SOUND]  SOUND load state for zm_theater.en patch changed from 6 to 7
+[  95608][    SOUND]  SOUND load state for zm_theater.en changed from 0 to 1
+[  95619][    SOUND]  SOUND entry alloc D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III/zone/snd/en/zm_theater.en.sabs 1651
+[  95619][    SOUND]  SOUND load state for zm_theater.en changed from 1 to 2
+[  95650][    SOUND]  SOUND load state for zm_theater.en changed from 2 to 3
+[  95668][    SOUND]  SOUND load state for zm_theater.en changed from 3 to 4
+[  95680][    SOUND]  SOUND load state for zm_theater.en changed from 4 to 5
+[  95711][    SOUND]  SOUND load state for zm_theater.en changed from 5 to 6
+[  95728][    SOUND]  SOUND load state for zm_theater.en changed from 6 to 7
+[  95741][       DB]  Loaded sounds for 'en_zm_theater' 275ms
+[  95741][       DB]  FastFileLoad: Setting en_zm_theater to XZONE_LOADED in 504ms.
+[  95741][       DB]  FastFileLoad: Setting zm_theater to XZONE_LOADING.
+[  95741][       DB]  FastFileLoad: zm_theater, FastFilePriority: 1019
+[  95747][       DB]  Loading fastfile 'zm_theater'
+[  96022][       DB]  Redundant techset asset 'mc/lit_micro_tile_blend_advanced#e6142445' found in zone 'en_zm_theater' while loading zone 'zm_theater'
+[  96023][       DB]  Redundant image asset '$thickness' found in zone 'en_zm_theater' while loading zone 'zm_theater'
+[  96125][       DB]  Redundant image asset 'i_t7_micro_metal_painted_02_g' found in zone 'en_zm_theater' while loading zone 'zm_theater'
+[  96126][       DB]  Redundant image asset 'i_t7_metal_grunge_med_01_s' found in zone 'en_zm_theater' while loading zone 'zm_theater'
+[  96154][       DB]  Redundant image asset 'i_mtl_p7_zm_kin_balcony_relief_01_n' found in zone 'en_zm_theater' while loading zone 'zm_theater'
+[  96154][       DB]  Redundant image asset 'i_t7_metal_gunmetal_01_g' found in zone 'en_zm_theater' while loading zone 'zm_theater'
+[  96154][       DB]  Redundant image asset 'i_t7_micro_metal_grunge_scratch_fine_01_c' found in zone 'en_zm_theater' while loading zone 'zm_theater'
+[  96154][       DB]  Redundant image asset 'i_t7_metal_chainlink_s' found in zone 'en_zm_theater' while loading zone 'zm_theater'
+[  96334][       DB]  Redundant material asset 'mc/bullet_collision_rock' found in zone 'en_zm_theater' while loading zone 'zm_theater'
+[  96346][       DB]  Redundant image asset 'i_mtl_p7_ven_gib_armleg_n' found in zone 'en_zm_theater' while loading zone 'zm_theater'
+[  96347][       DB]  Redundant image asset 'i_mtl_p7_ven_gib_armleg_c' found in zone 'en_zm_theater' while loading zone 'zm_theater'
+[  96347][       DB]  Redundant material asset 'mc/mtl_p7_ven_gib_armleg' found in zone 'en_zm_theater' while loading zone 'zm_theater'
+[  96444][       DB]  Redundant image asset 'i_t7_micro_stone_travertine_n' found in zone 'en_zm_theater' while loading zone 'zm_theater'
+[  97312][       DB]  Redundant image asset 'i_c_gen_detail_jeans_n' found in zone 'en_zm_theater' while loading zone 'zm_theater'
+[  97315][       DB]  Redundant playersoundstable asset 'cp_playersounds' found in zone 'core_common' while loading zone 'zm_theater'
+[  97315][       DB]  Redundant playerfxtable asset 'zm_playerfx' found in zone 'zm_common' while loading zone 'zm_theater'
+[  97315][       DB]  Redundant playersoundstable asset 'zm_beastmodesounds' found in zone 'core_common' while loading zone 'zm_theater'
+[  97535][         ]  Added XPaks for zm_theater, 0ms
+[  97554][    SOUND]  SOUND Adding Bank zm_theater.all 1019 patch
+[  97628][       DB]  Loading sounds for 'zm_theater'
+[  97628][    SOUND]  SOUND load state for zm_theater.all patch changed from 0 to 1
+[  97659][    SOUND]  SOUND load state for zm_theater.all patch changed from 1 to 2
+[  97689][    SOUND]  SOUND load state for zm_theater.all patch changed from 2 to 3
+[  97720][    SOUND]  SOUND entry alloc D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III/zone/snd/all/zm_theater.all.p.sabl 77
+[  97720][    SOUND]  SOUND load state for zm_theater.all patch changed from 3 to 4
+[  97750][    SOUND]  SOUND load state for zm_theater.all patch changed from 4 to 5
+[  97781][    SOUND]  SOUND loaded alloc D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III/zone/snd/all/zm_theater.all.p.sabl 00000152D9A78F00 00000152D9A7A000
+[  97781][    SOUND]  SOUND load state for zm_theater.all patch changed from 5 to 6
+[  97812][    SOUND]  SOUND load state for zm_theater.all patch changed from 6 to 7
+[  97842][    SOUND]  SOUND load state for zm_theater.all changed from 0 to 1
+[  97873][    SOUND]  SOUND entry alloc D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III/zone/snd/all/zm_theater.all.sabs 108
+[  97873][    SOUND]  SOUND load state for zm_theater.all changed from 1 to 2
+[  97903][    SOUND]  SOUND load state for zm_theater.all changed from 2 to 3
+[  97929][    SOUND]  SOUND entry alloc D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III/zone/snd/all/zm_theater.all.sabl 689
+[  97929][    SOUND]  SOUND load state for zm_theater.all changed from 3 to 4
+[  97934][    SOUND]  SOUND load state for zm_theater.all changed from 4 to 5
+[  97973][    SOUND]  SOUND loaded alloc D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III/zone/snd/all/zm_theater.all.sabl 00000152D9F5A200 00000152F07EC000
+[  97973][    SOUND]  SOUND load state for zm_theater.all changed from 5 to 6
+[  98089][    SOUND]  SOUND load state for zm_theater.all changed from 6 to 7
+[  98095][       DB]  Loaded sounds for 'zm_theater' 467ms
+[  98095][       DB]  FastFileLoad: Setting zm_theater to XZONE_LOADED in 2354ms.
+[  98098][       DB]  Redundant image asset 'i_c_gen_reveal_1k_rec_horiz_r' found in zone 'core_common' while loading zone 'en_zm_theater'
+[  98098][       DB]  Redundant techset asset 'mc/lit#e6142445' found in zone 'core_pre_gfx' while loading zone 'en_zm_theater'
+[  98098][       DB]  Redundant image asset '$white_diffuse' found in zone 'core_pre_gfx' while loading zone 'en_zm_theater'
+[  98098][       DB]  Redundant image asset '$black_color' found in zone 'core_pre_gfx' while loading zone 'en_zm_theater'
+[  98098][       DB]  Redundant techset asset 'mc/lit_weapon#e6142445' found in zone 'core_common' while loading zone 'en_zm_theater'
+[  98098][       DB]  Redundant techset asset 'mc/lit_micro_tile_blend_advanced#e6142445' found in zone 'en_zm_theater' while loading zone 'zm_theater'
+[  98098][       DB]  Redundant image asset '$thickness' found in zone 'en_zm_theater' while loading zone 'zm_theater'
+[  98098][       DB]  Redundant image asset 'i_t7_micro_metal_painted_02_g' found in zone 'en_zm_theater' while loading zone 'zm_theater'
+[  98098][       DB]  Redundant image asset 'i_t7_metal_grunge_med_01_s' found in zone 'en_zm_theater' while loading zone 'zm_theater'
+[  98098][       DB]  Redundant image asset 'i_mtl_p7_zm_kin_balcony_relief_01_n' found in zone 'en_zm_theater' while loading zone 'zm_theater'
+[  98098][       DB]  Redundant image asset 'i_t7_metal_gunmetal_01_g' found in zone 'en_zm_theater' while loading zone 'zm_theater'
+[  98098][       DB]  Redundant image asset 'i_t7_micro_metal_grunge_scratch_fine_01_c' found in zone 'en_zm_theater' while loading zone 'zm_theater'
+[  98098][       DB]  Redundant image asset 'i_t7_metal_chainlink_s' found in zone 'en_zm_theater' while loading zone 'zm_theater'
+[  98098][       DB]  Redundant material asset 'mc/bullet_collision_rock' found in zone 'en_zm_theater' while loading zone 'zm_theater'
+[  98098][       DB]  Redundant image asset 'i_mtl_p7_ven_gib_armleg_n' found in zone 'en_zm_theater' while loading zone 'zm_theater'
+[  98098][       DB]  Redundant image asset 'i_mtl_p7_ven_gib_armleg_c' found in zone 'en_zm_theater' while loading zone 'zm_theater'
+[  98098][       DB]  Redundant material asset 'mc/mtl_p7_ven_gib_armleg' found in zone 'en_zm_theater' while loading zone 'zm_theater'
+[  98098][       DB]  Redundant image asset 'i_t7_micro_stone_travertine_n' found in zone 'en_zm_theater' while loading zone 'zm_theater'
+[  98098][       DB]  Redundant image asset 'i_c_gen_detail_jeans_n' found in zone 'en_zm_theater' while loading zone 'zm_theater'
+[  98098][       DB]  Redundant playersoundstable asset 'cp_playersounds' found in zone 'core_common' while loading zone 'zm_theater'
+[  98098][       DB]  Redundant playerfxtable asset 'zm_playerfx' found in zone 'zm_common' while loading zone 'zm_theater'
+[  98098][       DB]  Redundant playersoundstable asset 'zm_beastmodesounds' found in zone 'core_common' while loading zone 'zm_theater'
+[  98204][         ]  ------- Game Initialization -------
+[  98204][         ]  gamename: Call of Duty®
+[  98204][         ]  gamedate: Dec 13 2019
+[  98210][       DB]  Error: Could not find weapon "smg_ppsh_zm".
+[  98210][       DB]  Error: Could not find weapon "smg_sten_zm".
+[  98210][       DB]  Error: Could not find weapon "smg_longrange_zm".
+[  98210][       DB]  Error: Could not find weapon "smg_mp40_zm".
+[  98210][       DB]  Error: Could not find weapon "smg_longrange_upgraded_zm".
+[  98210][       DB]  Error: Could not find weapon "smg_mp40_upgraded_zm".
+[  98210][       DB]  Error: Could not find weapon "smg_sten_upgraded_zm".
+[  98210][       DB]  Error: Could not find weapon "smg_ppsh_upgraded_zm".
+[  98210][       DB]  Error: Could not find weapon "ar_fastburst_zm".
+[  98210][       DB]  Error: Could not find weapon "ar_garand_zm".
+[  98210][       DB]  Error: Could not find weapon "ar_fastburst_upgraded_zm".
+[  98210][       DB]  Error: Could not find weapon "ar_garand_upgraded_zm".
+[  98210][       DB]  Error: Could not find weapon "sniper_chargeshot_zm".
+[  98210][       DB]  Error: Could not find weapon "sniper_fastbolt_upgraded_zm".
+[  98210][       DB]  Error: Could not find weapon "sniper_chargeshot_upgraded_zm".
+[  98210][       DB]  Error: Could not find weapon "pistol_revolver38_zm".
+[  98210][       DB]  Error: Could not find weapon "pistol_standard_dw_zm".
+[  98210][       DB]  Error: Could not find weapon "pistol_burst_dw_zm".
+[  98210][       DB]  Error: Could not find weapon "pistol_fullauto_dw_zm".
+[  98210][       DB]  Error: Could not find weapon "m1911dw_zm".
+[  98210][       DB]  Error: Could not find weapon "pistol_shotgun_zm".
+[  98210][       DB]  Error: Could not find weapon "pistol_shotgun_dw_zm".
+[  98210][       DB]  Error: Could not find weapon "pistol_shotgun_upgraded_zm".
+[  98210][       DB]  Error: Could not find weapon "pistol_shotgun_dw_upgraded_zm".
+[  98210][       DB]  Error: Could not find weapon "pistol_revolver38_upgraded_zm".
+[  98210][       DB]  Error: Could not find weapon "launcher_lockonly_zm".
+[  98210][       DB]  Error: Could not find weapon "launcher_lockonly_upgraded_zm".
+[  98210][       DB]  Error: Could not find weapon "knife_loadout_zm".
+[  98210][       DB]  Error: Could not find weapon "hero_gravityspikes_melee_zm".
+[  98210][       DB]  Error: Could not find weapon "tesla_gun_zm".
+[  98210][       DB]  Error: Could not find weapon "tesla_gun_upgraded_zm".
+[  98210][       DB]  Error: Could not find weapon "skull_gun_zm".
+[  98210][       DB]  Error: Could not find weapon "skull_gun_upgraded_zm".
+[  98214][         ]  Not logging game server log.
+[  98247][       DB]  Error: Could not find fx "_t6/misc/fx_zombie_cola_jugg_on".
+[  98247][       DB]  Error: Could not find fx "_t6/misc/fx_zombie_cola_on".
+[  98248][       DB]  Error: Could not find material "minimap_icon_mystery_box".
+[  98248][       DB]  Error: Could not find material "zom_icon_community_pot".
+[  98248][       DB]  Error: Could not find material "zom_icon_community_pot_strip".
+[  98248][       DB]  Error: Could not find material "zom_icon_player_life".
+[  98248][       DB]  Error: Could not find material "zombie_stopwatch".
+[  98248][       DB]  Error: Could not find material "zombie_stopwatch_glass".
+[  98248][       DB]  Error: Could not find material "zombie_stopwatchneedle".
+[  98248][       DB]  Error: Could not find fx "_t6/maps/zombie/fx_zmb_tanzit_upgrade".
+[  98248][       DB]  Error: Could not find fx "_t6/maps/zombie/fx_zmb_tranzit_electrap_explo".
+[  98248][       DB]  Error: Could not find fx "_t6/maps/zombie/fx_zmb_tranzit_shield_explo".
+[  98248][       DB]  Error: Could not find fx "_t6/maps/zombie/fx_zombie_bar_break".
+[  98248][       DB]  Error: Could not find fx "_t6/maps/zombie/fx_zombie_bar_break_lite".
+[  98248][       DB]  Error: Could not find fx "_t6/maps/zombie/fx_zombie_tesla_neck_spurt".
+[  98248][       DB]  Error: Could not find fx "_t6/maps/zombie/fx_mp_zombie_body_snow_falling".
+[  98248][       DB]  Error: Could not find fx "_t6/maps/zombie/fx_mp_zombie_body_water_billowing".
+[  98248][       DB]  Error: Could not find fx "_t6/maps/zombie/fx_mp_zombie_hand_snow_burst".
+[  98248][       DB]  Error: Could not find fx "_t6/maps/zombie/fx_mp_zombie_hand_water_burst".
+[  98248][       DB]  Error: Could not find fx "_t6/maps/zombie/fx_zombie_body_wtr_falling".
+[  98248][       DB]  Error: Could not find weapon "special_crossbow_zm".
+[  98248][       DB]  Error: Could not find rumble "crossbow_fire".
+[  98248][       DB]  Error: Could not find fx "weapon/fx_trail_crossbow".
+[  98248][       DB]  Error: Could not find fx "_t6/misc/fx_ui_flagbase_pmc".
+[  98248][       DB]  Error: Could not find fx "_t6/weapon/riotshield/fx_riotshield_depoly_dust".
+[  98248][       DB]  Error: Could not find fx "_t6/weapon/riotshield/fx_riotshield_depoly_lights".
+[  98248][       DB]  Error: Could not find fx "killstreaks/fx_heli_chaff".
+[  98248][       DB]  Error: Could not find fx "lensflares/fx_lensflare_sniper_glint".
+[  98248][       DB]  Error: Could not find fx "player/fx_plyr_clone_reaper_appear".
+[  98248][       DB]  Error: Could not find fx "player/fx_plyr_clone_reaper_orb".
+[  98248][       DB]  Error: Could not find fx "player/fx_plyr_clone_vanish".
+[  98248][       DB]  Error: Could not find fx "player/fx_plyr_flashback_trail_impact".
+[  98248][       DB]  Error: Could not find fx "player/fx_plyr_rejack_light".
+[  98248][       DB]  Error: Could not find fx "player/fx_plyr_revive".
+[  98248][       DB]  Error: Could not find fx "player/fx_plyr_revive_demat".
+[  98248][       DB]  Error: Could not find fx "vehicle/fx_quadtank_airburst".
+[  98248][       DB]  Error: Could not find fx "vehicle/fx_quadtank_airburst_ground".
+[  98248][       DB]  Error: Could not find fx "weapon/fx_betty_light_blue".
+[  98248][       DB]  Error: Could not find fx "weapon/fx_betty_light_orng".
+[  98248][       DB]  Error: Could not find fx "weapon/fx_hero_pineapple_trail_blue".
+[  98248][       DB]  Error: Could not find fx "weapon/fx_hero_pineapple_trail_orng".
+[  98248][       DB]  Error: Could not find fx "animals/fx_bio_direwolf_eyes".
+[  98248][       DB]  Error: Could not find fx "dlc1/castle/fx_mech_dmg_armor".
+[  98248][       DB]  Error: Could not find fx "dlc1/castle/fx_mech_dmg_armor_face".
+[  98248][       DB]  Error: Could not find fx "dlc1/castle/fx_mech_dmg_body_light".
+[  98248][       DB]  Error: Could not find fx "dlc1/castle/fx_mech_dmg_knee_sparks".
+[  98248][       DB]  Error: Could not find fx "dlc1/castle/fx_mech_dmg_sparks".
+[  98248][       DB]  Error: Could not find fx "dlc1/castle/fx_mech_foot_step".
+[  98248][       DB]  Error: Could not find fx "dlc1/castle/fx_mech_foot_step_steam".
+[  98248][       DB]  Error: Could not find fx "dlc1/castle/fx_mech_head_light".
+[  98248][       DB]  Error: Could not find fx "dlc1/castle/fx_mech_light_dmg".
+[  98248][       DB]  Error: Could not find fx "dlc1/castle/fx_mech_wpn_flamethrower".
+[  98248][       DB]  Error: Could not find fx "dlc1/castle/fx_wpn_115_muz".
+[  98248][       DB]  Error: Could not find fx "dlc2/island/fx_spores_cloud_ambient_lrg".
+[  98248][       DB]  Error: Could not find fx "dlc2/island/fx_spores_cloud_ambient_md".
+[  98248][       DB]  Error: Could not find fx "dlc2/island/fx_spores_cloud_ambient_sm".
+[  98248][       DB]  Error: Could not find fx "dlc2/island/fx_thrash_chest_mouth_drool_1p".
+[  98248][       DB]  Error: Could not find fx "dlc2/island/fx_thrash_eye_glow".
+[  98248][       DB]  Error: Could not find fx "dlc2/island/fx_thrash_eye_glow_rage".
+[  98248][       DB]  Error: Could not find fx "dlc2/island/fx_thrash_pustule_burst".
+[  98248][       DB]  Error: Could not find fx "dlc2/island/fx_thrash_pustule_impact".
+[  98248][       DB]  Error: Could not find fx "dlc2/island/fx_thrash_pustule_reinflate".
+[  98248][       DB]  Error: Could not find fx "dlc2/island/fx_thrash_pustule_spore_exp".
+[  98248][       DB]  Error: Could not find fx "dlc2/island/fx_thrash_rage_gas_leg_lft".
+[  98248][       DB]  Error: Could not find fx "dlc2/island/fx_thrash_rage_gas_leg_rgt".
+[  98248][       DB]  Error: Could not find fx "dlc2/island/fx_thrash_rage_gas_torso".
+[  98248][       DB]  Error: Could not find fx "electric/fx_ability_elec_surge_short_robot".
+[  98248][       DB]  Error: Could not find fx "electric/fx_elec_warlord_damage_1".
+[  98248][       DB]  Error: Could not find fx "electric/fx_elec_warlord_damage_2".
+[  98249][       DB]  Error: Could not find fx "electric/fx_elec_warlord_lower_damage_1".
+[  98249][       DB]  Error: Could not find fx "electric/fx_elec_warlord_lower_damage_2".
+[  98249][       DB]  Error: Could not find fx "explosions/fx_exp_robot_stage3_evb".
+[  98249][       DB]  Error: Could not find fx "explosions/fx_exp_warlord_death".
+[  98249][       DB]  Error: Could not find fx "light/fx_light_body_glow_warlord".
+[  98249][       DB]  Error: Could not find fx "light/fx_light_eye_glow_warlord".
+[  98249][       DB]  Error: Could not find fx "player/fx_loot_taunt_e_reaper_main_03".
+[  98249][       DB]  Error: Could not find fx "player/fx_loot_taunt_outrider_talon_lights".
+[  98249][       DB]  Error: Could not find fx "player/fx_plyr_ability_screen_blur_overdrive".
+[  98249][       DB]  Error: Could not find fx "player/fx_plyr_flashback_trail".
+[  98249][       DB]  Error: Could not find fx "player/fx_plyr_heat_wave_distortion_volume".
+[  98249][       DB]  Error: Could not find fx "player/fx_plyr_heat_wave_distortion_volume_air".
+[  98249][       DB]  Error: Could not find fx "player/fx_plyr_shock_field".
+[  98249][       DB]  Error: Could not find fx "player/fx_plyr_shock_field_1p".
+[  98249][       DB]  Error: Could not find fx "vehicle/fx_exhaust_jetpack_warlord_juke".
+[  98249][       DB]  Error: Could not find fx "weapon/fx_hero_blackjack_beam_source".
+[  98249][       DB]  Error: Could not find fx "weapon/fx_hero_blackjack_beam_target".
+[  98249][       DB]  Error: Could not find fx "zombie/fx_margwa_head_shot_zod_zmb".
+[  98249][       DB]  Error: Could not find fx "zombie/fx_margwa_roar_purple_zod_zmb".
+[  98249][       DB]  Error: Could not find fx "zombie/fx_margwa_roar_zod_zmb".
+[  98249][       DB]  Error: Could not find fx "zombie/fx_margwa_teleport_intro_zod_zmb".
+[  98249][       DB]  Error: Could not find fx "zombie/fx_margwa_teleport_tell_zod_zmb".
+[  98249][       DB]  Error: Could not find fx "zombie/fx_margwa_teleport_travel_zod_zmb".
+[  98249][       DB]  Error: Could not find fx "zombie/fx_margwa_teleport_zod_zmb".
+[  98249][       DB]  Error: Could not find fx "zombie/fx_val_chest_burst".
+[  98249][       DB]  Error: Could not find tagfx "ability_hero_heat_wave_player_impact".
+[  98249][       DB]  Error: Could not find tagfx "gadget_flashback_3p_off".
+[  98251][       DB]  Error: Could not find weapon "zombie_cymbal_monkey_zm".
+[  98251][       DB]  Error: Could not find weapon "weapon_null_zm".
+[  98251][       DB]  Error: Could not find material "specialty_ads_zombies".
+[  98251][       DB]  Error: Could not find material "specialty_doubletap_zombies".
+[  98251][       DB]  Error: Could not find material "specialty_extraprimaryweapon_zombies".
+[  98251][       DB]  Error: Could not find material "specialty_fastreload_zombies".
+[  98251][       DB]  Error: Could not find material "specialty_juggernaut_zombies".
+[  98251][       DB]  Error: Could not find material "specialty_marathon_zombies".
+[  98251][       DB]  Error: Could not find material "specialty_quickrevive_zombies".
+[  98251][       DB]  Error: Could not find material "specialty_widows_wine_zombies".
+[  98251][       DB]  Error: Could not find material "zom_icon_minigun".
+[  98251][       DB]  Error: Could not find material "zom_icon_theater_reel".
+[  98251][       DB]  Error: Could not find fx "dlc4/genesis/fx_light_turret_auto".
+[  98251][       DB]  Error: Could not find fx "electrical/fx_elec_player_md".
+[  98251][       DB]  Error: Could not find fx "env/electrical/fx_elec_wire_spark_burst".
+[  98251][       DB]  Error: Could not find fx "env/smoke/fx_pipe_steam_md".
+[  98251][       DB]  Error: Could not find fx "maps/zombie/fx_zombie_theater_lightboard_green".
+[  98251][       DB]  Error: Could not find fx "maps/zombie/fx_zombie_theater_lightboard_red".
+[  98251][       DB]  Error: Could not find fx "dlc5/zmhd/fx_pipe_steam_md".
+[  98251][       DB]  Error: Could not find fx "maps/zombie/fx_zombie_theater_projector_beam".
+[  98251][       DB]  Error: Could not find fx "maps/zombie/fx_zombie_theater_screen_0".
+[  98251][       DB]  Error: Could not find fx "maps/zombie/fx_zombie_theater_screen_1".
+[  98251][       DB]  Error: Could not find fx "maps/zombie/fx_zombie_theater_screen_2".
+[  98251][       DB]  Error: Could not find fx "maps/zombie/fx_zombie_theater_screen_3".
+[  98434][       DB]  Error: Could not find weapon "hero_gravityspikes_melee".
+[  98435][       DB]  Error: Could not find weapon "ball_zm".
+[  98435][       DB]  Error: Could not find weapon "ball".
+[  98438][       DB]  Error: Could not find weapon "gadget_resurrect_zm".
+[  98438][       DB]  Error: Could not find weapon "gadget_resurrect".
+[  98440][       DB]  Error: Could not find weapon "dragon_gauntlet_zm".
+[  98440][       DB]  Error: Could not find weapon "dragon_gauntlet".
+[  98442][       DB]  Error: Could not find weapon "proximity_grenade_zm".
+[  98442][       DB]  Error: Could not find weapon "proximity_grenade".
+[  98443][       DB]  Error: Could not find weapon "syrette_zod_beast_zm".
+[  98443][       DB]  Error: Could not find weapon "smg_sten".
+[  98443][       DB]  Error: Could not find weapon "smg_sten_upgraded".
+[  98444][       DB]  Error: Could not find weapon "pistol_revolver38".
+[  98444][       DB]  Error: Could not find weapon "pistol_revolver38_upgraded".
+[  98444][       DB]  Error: Could not find weapon "pistol_shotgun".
+[  98444][       DB]  Error: Could not find weapon "pistol_shotgun_upgraded".
+[  98444][       DB]  Error: Could not find weapon "sniper_fastbolt_upgraded".
+[  98444][       DB]  Error: Could not find weapon "ar_garand".
+[  98444][       DB]  Error: Could not find weapon "ar_garand_upgraded".
+[  98444][       DB]  Error: Could not find weapon "launcher_lockon_zm".
+[  98444][       DB]  Error: Could not find weapon "launcher_lockon".
+[  98444][       DB]  Error: Could not find weapon "launcher_lockonly".
+[  98521][       DB]  Error: Could not find navvolume "maps/zm/zm_theater_navvolume".
+[  98537][         ]  -----------------------------------
+[  98557][       DB]  Error: Could not find rawfile "gamedata/constbaselines/zm/bl_little_endian_zm_theater_zclassic.bin".
+[ 102518][         ]  execing gamedata/configs/zm/ragdoll.cfg from fastfile
+[ 102519][  BGCACHE]  Client: Registering configstring index 495 with data ZOMBIE_BUTTON_BUY_OPEN_DOOR_COST1250
+[ 102519][  BGCACHE]  Client: Registering configstring index 496 with data ZOMBIE_BUTTON_BUY_OPEN_DOOR_COST750
+[ 102519][  BGCACHE]  Client: Registering configstring index 497 with data ZOMBIE_BUTTON_BUY_OPEN_DOOR_COST1000
+[ 102519][  BGCACHE]  Client: Registering configstring index 3241 with data y åCl
+[ 102623][  BGCACHE]  Client: Registering configstring index 495 with data ZOMBIE_BUTTON_BUY_OPEN_DOOR_COST1250
+[ 102623][  BGCACHE]  Client: Registering configstring index 496 with data ZOMBIE_BUTTON_BUY_OPEN_DOOR_COST750
+[ 102623][  BGCACHE]  Client: Registering configstring index 497 with data ZOMBIE_BUTTON_BUY_OPEN_DOOR_COST1000
+[ 102624][  BGCACHE]  Client: Registering configstring index 3241 with data y åCl
+[ 102637][       DB]  Error: Could not find cgmediatable "cgmedia_zm_theater".
+[ 102637][       DB]  Error: Could not find fx "weapon/fx_trail_rocket_multi_lob".
+[ 102644][       DB]  Error: Could not find rawfile "vision/zm_theater.vision".
+[ 102644][       DB]  Error: Could not find material "menu_map_zombie_theater_t7".
+[ 102644][       DB]  Error: Could not find material "menu_map_zombie_theater".
+[ 102644][       DB]  Error: Could not find material "menu_map_zombie_theater_full".
+[ 102644][       DB]  Error: Could not find material "menu_map_zombie_theater_corrupt".
+[ 102644][       DB]  Error: Could not find material "menu_map_zombie_theater_noise".
+[ 102644][       DB]  Error: Could not find material "menu_map_zombie_theater_scrambled".
+[ 102661][       DB]  Error: Could not find rawfile "gamedata/constbaselines/zm/bl_little_endian_zm_theater_zclassic.bin".
+[ 108091][ SCRIPTER]  [msg]###^7 Connected
+[ 108213][       DB]  Error: Could not find material "mc/ability_clone_enemy_damage".
+[ 108213][       DB]  Error: Could not find material "mc/ability_clone_ally_damage".
+[ 108213][       DB]  Error: Could not find material "mc/ability_clone_enemy".
+[ 108213][       DB]  Error: Could not find material "mc/ability_clone_ally".
+[ 108213][       DB]  Error: Could not find material "mc/hud_keyline_ph_yellow".
+[ 108213][       DB]  Error: Could not find rawfile "vision/zombie_theater_eroom_girlold.vision".
+[ 111361][  BGCACHE]  Client: Registering configstring index 498 with data ZOMBIE_PERK_QUICKREVIVE500
+[ 111361][  BGCACHE]  Client: Registering configstring index 3241 with data yÆÓWœ
+[ 115646][  BGCACHE]  Client: Registering configstring index 499 with data ZOMBIE_BGB_MACHINE_AVAILABLE0
+[ 115646][  BGCACHE]  Client: Registering configstring index 3241 with data yü‚½ˆ
+[ 121212][         ]  ]/god
+[ 121286][ SCRIPTER]  [msg]godmode ON
+[ 152071][         ]  ]/quit
+[ 152077][         ]  quitting...
+[ 152097][         ]  execing gamedata/configs/zm/ragdoll.cfg from fastfile
+[ 152145][         ]  ==== ShutdownGame (1) ====
+[ 152191][       DB]  Unloading assets from fastfile 'zm_theater' and deleting all assets
+[ 152471][    SOUND]  SOUND Removing Bank 6 zm_theater.all patch
+[ 152471][    SOUND]  SOUND Removing Bank 7 zm_theater.all 
+[ 153207][       DB]  Unloading assets from fastfile 'en_zm_theater' and deleting all assets
+[ 153207][         ]  Removed xpak file: zm_theater
+[ 153207][         ]  Removed xpak file: en_zm_theater
+[ 153211][    SOUND]  SOUND Removing Bank 8 zm_theater.en patch
+[ 153211][    SOUND]  SOUND Removing Bank 9 zm_theater.en 
+[ 153214][       DB]  Unloading assets from fastfile 'zm_theater_patch' and deleting all assets
+[ 153217][    SOUND]  SOUND Removing Bank 0 zm_theater_patch.all 
+[ 153219][       DB]  Unloading assets from fastfile 'en_zm_theater_patch' and deleting all assets
+[ 153222][    SOUND]  SOUND Removing Bank 1 zm_theater_patch.en 
+[ 153222][       DB]  Unloading assets from fastfile 'zm_mod' and deleting all assets
+[ 153225][       DB]  Unloading assets from fastfile 'en_zm_mod' and deleting all assets
+[ 153228][       DB]  Unloading assets from fastfile 'zm_common' and deleting all assets
+[ 153240][    SOUND]  SOUND Removing Bank 10 zm_common.all patch
+[ 153243][    SOUND]  SOUND Removing Bank 11 zm_common.all 
+[ 153275][       DB]  Unloading assets from fastfile 'en_zm_common' and deleting all assets
+[ 153278][    SOUND]  SOUND Removing Bank 12 zm_common.en patch
+[ 153278][    SOUND]  SOUND Removing Bank 13 zm_common.en 
+[ 153279][       DB]  Unloading assets from fastfile 'zm_patch' and deleting all assets
+[ 153282][    SOUND]  SOUND Removing Bank 2 zm_patch.all 
+[ 153285][       DB]  Unloading assets from fastfile 'en_zm_patch' and deleting all assets
+[ 153285][         ]  Removed xpak file: zm_initial
+[ 153288][    SOUND]  SOUND Removing Bank 3 zm_patch.en 
+[ 153289][       DB]  Unloading assets from fastfile 'core_mod' and deleting all assets
+[ 153293][       DB]  Unloading assets from fastfile 'en_core_mod' and deleting all assets
+[ 153296][       DB]  Unloading assets from fastfile 'core_common' and deleting all assets
+[ 153706][       DB]  Unloading assets from fastfile 'en_core_common' and deleting all assets
+[ 153710][       DB]  Unloading assets from fastfile 'core_ui' and deleting all assets
+[ 153719][    SOUND]  SOUND Removing Bank 14 core_ui.all patch
+[ 153719][    SOUND]  SOUND Removing Bank 15 core_ui.all 
+[ 153721][       DB]  Unloading assets from fastfile 'en_core_ui' and deleting all assets
+[ 153723][    SOUND]  SOUND Removing Bank 16 core_ui.en patch
+[ 153723][    SOUND]  SOUND Removing Bank 17 core_ui.en 
+[ 153724][       DB]  Unloading assets from fastfile 'core_post_gfx' and deleting all assets
+[ 153727][    SOUND]  SOUND Removing Bank 18 core_post_gfx.all patch
+[ 153727][    SOUND]  SOUND Removing Bank 19 core_post_gfx.all 
+[ 153728][       DB]  Unloading assets from fastfile 'en_core_post_gfx' and deleting all assets
+[ 153730][    SOUND]  SOUND Removing Bank 20 core_post_gfx.en patch
+[ 153730][    SOUND]  SOUND Removing Bank 21 core_post_gfx.en 
+[ 153731][       DB]  Unloading assets from fastfile 'core_gfx' and deleting all assets
+[ 153735][       DB]  Unloading assets from fastfile 'en_core_gfx' and deleting all assets
+[ 153737][       DB]  Unloading assets from fastfile 'core_patch' and deleting all assets
+[ 153741][    SOUND]  SOUND Removing Bank 4 core_patch.all 
+[ 153743][       DB]  Unloading assets from fastfile 'en_core_patch' and deleting all assets
+[ 153743][         ]  Removed xpak file: en_base_patch
+[ 153743][         ]  Removed xpak file: base_patch
+[ 153743][         ]  Removed xpak file: en_base_patch_tu3
+[ 153743][         ]  Removed xpak file: base_patch_tu3
+[ 153743][         ]  Removed xpak file: en_base_patch_tu4
+[ 153743][         ]  Removed xpak file: base_patch_tu4
+[ 153743][         ]  Removed xpak file: base_patch_tu5
+[ 153743][         ]  Removed xpak file: base_patch_tu6
+[ 153743][         ]  Removed xpak file: base_patch_tu7
+[ 153743][         ]  Removed xpak file: base_patch_tu8
+[ 153743][         ]  Removed xpak file: base_patch_tu9
+[ 153743][         ]  Removed xpak file: en_base_patch_tu10
+[ 153743][         ]  Removed xpak file: base_patch_tu10
+[ 153743][         ]  Removed xpak file: base_patch_tu11
+[ 153743][         ]  Removed xpak file: base_patch_tu12
+[ 153743][         ]  Removed xpak file: base_patch_tu13
+[ 153743][         ]  Removed xpak file: base_patch_tu14
+[ 153743][         ]  Removed xpak file: base_patch_tu15
+[ 153743][         ]  Removed xpak file: base_patch_tu17
+[ 153743][         ]  Removed xpak file: base_patch_tu18
+[ 153743][         ]  Removed xpak file: base_patch_tu19
+[ 153743][         ]  Removed xpak file: base_patch_tu20
+[ 153743][         ]  Removed xpak file: base_patch_tu21
+[ 153743][         ]  Removed xpak file: base_patch_tu22
+[ 153743][         ]  Removed xpak file: base_patch_tu23
+[ 153743][         ]  Removed xpak file: base_patch_tu24
+[ 153743][         ]  Removed xpak file: base_patch_tu25
+[ 153743][         ]  Removed xpak file: base_patch_tu26
+[ 153743][         ]  Removed xpak file: base_patch_tu27
+[ 153743][         ]  Removed xpak file: base_patch_tu28
+[ 153743][         ]  Removed xpak file: base_patch_tu29
+[ 153743][         ]  Removed xpak file: base_patch_tu30
+[ 153743][         ]  Removed xpak file: base_patch_tu32
+[ 153769][    SOUND]  SOUND Removing Bank 5 core_patch.en 
+[ 153770][       DB]  Unloading assets from fastfile 'core_pre_gfx' and deleting all assets
+[ 153797][       DB]  Unloading assets from fastfile 'en_core_pre_gfx' and deleting all assets
+[ 153797][         ]  Removed xpak file: en_initial
+[ 153797][         ]  Removed xpak file: initial
+[ 153797][         ]  Removed xpak file: en_base
+[ 153797][         ]  Removed xpak file: base
+[ 153826][       DB]  Unloaded fastfile 'zm_theater'
+[ 153847][       DB]  Unloaded fastfile 'en_zm_theater'
+[ 153847][       DB]  Unloaded fastfile 'zm_theater_patch'
+[ 153848][       DB]  Unloaded fastfile 'en_zm_theater_patch'
+[ 153848][       DB]  Unloaded fastfile 'zm_mod'
+[ 153848][       DB]  Unloaded fastfile 'en_zm_mod'
+[ 153848][       DB]  Unloaded fastfile 'zm_common'
+[ 153851][       DB]  Unloaded fastfile 'en_zm_common'
+[ 153851][       DB]  Unloaded fastfile 'zm_patch'
+[ 153852][       DB]  Unloaded fastfile 'en_zm_patch'
+[ 153852][       DB]  Unloaded fastfile 'core_mod'
+[ 153852][       DB]  Unloaded fastfile 'en_core_mod'
+[ 153852][       DB]  Unloaded fastfile 'core_common'
+[ 153872][       DB]  Unloaded fastfile 'en_core_common'
+[ 153873][       DB]  Unloaded fastfile 'core_ui'
+[ 153875][       DB]  Unloaded fastfile 'en_core_ui'
+[ 153875][       DB]  Unloaded fastfile 'core_post_gfx'
+[ 153875][       DB]  Unloaded fastfile 'en_core_post_gfx'
+[ 153875][       DB]  Unloaded fastfile 'core_gfx'
+[ 153876][       DB]  Unloaded fastfile 'en_core_gfx'
+[ 153876][       DB]  Unloaded fastfile 'core_patch'
+[ 153883][       DB]  Unloaded fastfile 'en_core_patch'
+[ 153883][       DB]  Unloaded fastfile 'core_pre_gfx'
+[ 153885][       DB]  Unloaded fastfile 'en_core_pre_gfx'

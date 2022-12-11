@@ -1,0 +1,191 @@
+version,3421953,593
+ignore_missing_shipped,core_pre_gfx
+ignore_missing_shipped,core_patch
+ignore_missing_shipped,core_gfx
+ignore_missing_shipped,core_post_gfx
+ignore_missing_shipped,core_ui
+ignore_missing_shipped,core_common
+ignore_missing_shipped,zm_common
+ignore_missing_shipped,zm_patch
+ignore_missing_shipped,core_patch
+ignore_missing_shipped,zm_levelcommon
+scriptparsetree,scripts/zm/gametypes/_clientids.gsc
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\mods\offline_megas_extra\scripts\zm\gametypes\_clientids.gsc,1664570657,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\shared\shared.gsh,1648526443,
+scriptparsetree,scripts/zm/_zm_perks.gsc
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\mods\offline_megas_extra\scripts\zm\_zm_perks.gsc,1662004660,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\shared\shared.gsh,1648526443,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\shared\version.gsh,1648526542,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\zm\_zm_perks.gsh,1648526545,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\zm\_zm_utility.gsh,1648526543,
+scriptparsetree,scripts/zm/_load.gsc
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\mods\offline_megas_extra\scripts\zm\_load.gsc,1664592174,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\shared\shared.gsh,1648526443,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\shared\version.gsh,1648526542,
+scriptparsetree,scripts/zm/_zm_utility.gsc
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\mods\offline_megas_extra\scripts\zm\_zm_utility.gsc,1626465360,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\shared\shared.gsh,1648526443,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\shared\statstable_shared.gsh,1648526477,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\zm\_zm_perks.gsh,1648526545,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\raw\scripts\zm\_zm_utility.gsh,1648526543,
+image,specialty_blue_electric_cherry_zombies
+	gdt,image,specialty_blue_electric_cherry_zombies,66-94-66-26-3E-2D-9F-A7-3D-F7-F4-0A-AF-C2-43-D0
+	gdt,light,specialty_blue_electric_cherry_zombies,
+	gdt,emblem,specialty_blue_electric_cherry_zombies,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\deffiles\image.awi,1648529429,32295aab,34ad1118,b8e6c9c4,45d460d8
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\deffiles\light.awi,1648529447,5da64c3c,92db2ade,6c36bab1,4d3fe1b9
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\deffiles\emblem.awi,1648529457,90d8528b,f191a8f1,d026de37,33338f38
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\texture_assets\specialty_blue_electric_cherry_zombies.tif,1664737493,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\specialty_blue_electric_cherry_zombies_PTHREE52DDH5XTT2DPE7B4XI7L.iwi,1664738002,
+image,specialty_doubletap_zombies
+	gdt,image,specialty_doubletap_zombies,8C-1C-04-38-77-73-10-B1-D6-5B-D4-1D-AA-FB-65-A2
+	gdt,light,specialty_doubletap_zombies,
+	gdt,emblem,specialty_doubletap_zombies,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\texture_assets\specialty_doubletap_zombies.tif,1664735678,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\specialty_doubletap_zombies_TDLXA5BNUEH2QFIPJGIUSSDA3K.iwi,1664736694,
+image,specialty_fastreload_zombies
+	gdt,image,specialty_fastreload_zombies,0E-25-13-95-1C-16-32-B8-2C-D0-C8-A0-F3-20-23-4D
+	gdt,light,specialty_fastreload_zombies,
+	gdt,emblem,specialty_fastreload_zombies,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\texture_assets\specialty_fastreload_zombies.tif,1664506352,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\specialty_fastreload_zombies_WWO7L4Y5D3HUMRZOTTZEKWJTJU.iwi,1664507562,
+image,specialty_giant_ads_zombies
+	gdt,image,specialty_giant_ads_zombies,A1-3C-C5-FE-2E-8A-8E-9E-4B-9A-9D-39-36-57-7F-F1
+	gdt,light,specialty_giant_ads_zombies,
+	gdt,emblem,specialty_giant_ads_zombies,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\texture_assets\specialty_giant_ads_zombies.tif,1664506429,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\specialty_giant_ads_zombies_3ABGASMMM72KVNWGNUMECC3N7Y.iwi,1664507562,
+image,specialty_giant_doubletap_zombies
+	gdt,image,specialty_giant_doubletap_zombies,92-0E-0F-FA-72-C3-E8-57-5D-D7-54-1B-10-96-54-DC
+	gdt,light,specialty_giant_doubletap_zombies,
+	gdt,emblem,specialty_giant_doubletap_zombies,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\texture_assets\specialty_giant_doubletap_zombies.tif,1664735690,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\specialty_giant_doubletap_zombies_GQ4AELM7ES44JVSOHOUOP25L5F.iwi,1664736694,
+image,specialty_giant_fastreload_zombies
+	gdt,image,specialty_giant_fastreload_zombies,6F-CC-33-3E-AE-5A-B8-08-20-BA-CD-C1-87-52-14-10
+	gdt,light,specialty_giant_fastreload_zombies,
+	gdt,emblem,specialty_giant_fastreload_zombies,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\texture_assets\specialty_giant_fastreload_zombies.tif,1664506352,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\specialty_giant_fastreload_zombies_LGJZC7GARS32CKQZOW5H7W7K7D.iwi,1664507562,
+image,specialty_giant_juggernaut_zombies
+	gdt,image,specialty_giant_juggernaut_zombies,D6-30-8F-91-05-C5-BB-C8-8E-8D-D9-17-ED-F9-57-BA
+	gdt,light,specialty_giant_juggernaut_zombies,
+	gdt,emblem,specialty_giant_juggernaut_zombies,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\texture_assets\specialty_giant_juggernaut_zombies.tif,1664727944,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\specialty_giant_juggernaut_zombies_JP4BEXZWSKEZPQKQOIDK5SOY6C.iwi,1664729400,
+image,specialty_giant_marathon_zombies
+	gdt,image,specialty_giant_marathon_zombies,67-BF-54-5C-5C-FD-E2-05-86-6A-B2-1F-2D-C8-35-BE
+	gdt,light,specialty_giant_marathon_zombies,
+	gdt,emblem,specialty_giant_marathon_zombies,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\texture_assets\specialty_giant_marathon_zombies.tif,1664727969,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\specialty_giant_marathon_zombies_W3OYMAZS3WYTQC5JX33HHZZD56.iwi,1664729400,
+image,specialty_giant_quickrevive_zombies
+	gdt,image,specialty_giant_quickrevive_zombies,58-3D-98-4D-C9-44-FF-AD-D2-82-E3-AD-2C-C0-17-77
+	gdt,light,specialty_giant_quickrevive_zombies,
+	gdt,emblem,specialty_giant_quickrevive_zombies,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\texture_assets\specialty_giant_quickrevive_zombies.tif,1664727922,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\specialty_giant_quickrevive_zombies_VABPGTSK7JE75UWFYKCWXDEJUB.iwi,1664729400,
+image,specialty_giant_three_guns_zombies
+	gdt,image,specialty_giant_three_guns_zombies,3F-00-49-64-E1-84-82-99-78-8A-EC-26-87-1F-37-80
+	gdt,light,specialty_giant_three_guns_zombies,
+	gdt,emblem,specialty_giant_three_guns_zombies,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\texture_assets\specialty_giant_three_guns_zombies.tif,1664737532,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\specialty_giant_three_guns_zombies_EINSC6SJ463MHXXEWFZNWW6I6J.iwi,1664738002,
+image,specialty_giant_widows_wine_zombies
+	gdt,image,specialty_giant_widows_wine_zombies,98-FB-A1-92-15-B4-08-4E-AC-46-97-1E-D6-DD-6D-2B
+	gdt,light,specialty_giant_widows_wine_zombies,
+	gdt,emblem,specialty_giant_widows_wine_zombies,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\texture_assets\specialty_giant_widows_wine_zombies.tif,1664735699,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\specialty_giant_widows_wine_zombies_SGXQU5D44FOSILQNTCYF2C3D3V.iwi,1664736694,
+image,specialty_juggernaut_zombies
+	gdt,image,specialty_juggernaut_zombies,F6-41-60-76-90-72-9B-35-62-A3-65-EC-0B-16-D4-8F
+	gdt,light,specialty_juggernaut_zombies,
+	gdt,emblem,specialty_juggernaut_zombies,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\texture_assets\specialty_juggernaut_zombies.tif,1664727949,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\specialty_juggernaut_zombies_2K2G6TNSSBNQNRGB7CILV2OG6C.iwi,1664729400,
+image,specialty_marathon_zombies
+	gdt,image,specialty_marathon_zombies,B4-23-7E-DD-1F-9A-45-AF-17-6B-DA-0D-0B-94-7A-B0
+	gdt,light,specialty_marathon_zombies,
+	gdt,emblem,specialty_marathon_zombies,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\texture_assets\specialty_marathon_zombies.tif,1664727975,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\specialty_marathon_zombies_Y2DXME5Q3NZ47DKTEDBUT3XEXC.iwi,1664729400,
+image,specialty_quickrevive_zombies
+	gdt,image,specialty_quickrevive_zombies,36-7C-92-A2-AF-06-9B-6E-0C-07-34-F6-51-67-36-23
+	gdt,light,specialty_quickrevive_zombies,
+	gdt,emblem,specialty_quickrevive_zombies,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\texture_assets\specialty_quickrevive_zombies.tif,1664727937,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\specialty_quickrevive_zombies_QIZE56N5PYJGQM7X7SZVGLI44M.iwi,1664729401,
+image,specialty_three_guns_zombies
+	gdt,image,specialty_three_guns_zombies,9B-46-A7-09-85-CC-7D-D2-91-C4-3E-7E-EF-A6-20-9A
+	gdt,light,specialty_three_guns_zombies,
+	gdt,emblem,specialty_three_guns_zombies,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\texture_assets\specialty_three_guns_zombies.tif,1664737525,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\specialty_three_guns_zombies_BUO65YQSVG3HEK4MZANH67ZLZW.iwi,1664738002,
+image,specialty_widows_wine_zombies
+	gdt,image,specialty_widows_wine_zombies,BC-F2-16-1C-81-D6-0D-36-11-21-1B-6E-31-26-DC-F7
+	gdt,light,specialty_widows_wine_zombies,
+	gdt,emblem,specialty_widows_wine_zombies,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\texture_assets\specialty_widows_wine_zombies.tif,1664735709,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\specialty_widows_wine_zombies_YYSGXKPTZSS7UEQFLALCZ5NR5F.iwi,1664736694,
+image,specialty_giant_killjoy_zombies
+	gdt,image,specialty_giant_killjoy_zombies,EA-78-33-58-C3-78-21-4E-17-CB-E2-75-AB-0D-E6-B9
+	gdt,light,specialty_giant_killjoy_zombies,
+	gdt,emblem,specialty_giant_killjoy_zombies,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\texture_assets\specialty_giant_killjoy_zombies.tif,1664268177,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\specialty_giant_killjoy_zombies_OGU66QVHW72CA4CU46N5X7LS3F.iwi,1664269039,
+image,specialty_giant_2x_zombies
+	gdt,image,specialty_giant_2x_zombies,42-FC-21-CD-FB-55-DA-5B-85-CC-47-99-93-C4-EC-35
+	gdt,light,specialty_giant_2x_zombies,
+	gdt,emblem,specialty_giant_2x_zombies,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\texture_assets\specialty_giant_2x_zombies.tif,1664267910,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\specialty_giant_2x_zombies_CCFHMIJ6FLKKFXORMSFG4QGN65.iwi,1664269039,
+image,specialty_giant_firesale_zombies
+	gdt,image,specialty_giant_firesale_zombies,3A-39-D4-4F-BE-8E-36-84-80-02-F4-56-D5-CC-C7-97
+	gdt,light,specialty_giant_firesale_zombies,
+	gdt,emblem,specialty_giant_firesale_zombies,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\texture_assets\specialty_giant_firesale_zombies.tif,1664267944,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\specialty_giant_firesale_zombies_B5RNWHSUSTCUREV7LZ5QQ4L3LP.iwi,1664269039,
+image,t7_hud_zm_powerup_giant_deathmachine
+	gdt,image,t7_hud_zm_powerup_giant_deathmachine,22-A1-12-7C-EA-E7-F4-C6-41-1A-B2-A0-8F-04-F7-26
+	gdt,light,t7_hud_zm_powerup_giant_deathmachine,
+	gdt,emblem,t7_hud_zm_powerup_giant_deathmachine,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\texture_assets\t7_hud_zm_powerup_giant_deathmachine.tif,1664268543,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\t7_hud_zm_powerup_giant_deathmachine_DLYJTS5KDXGMOTIH3SCNFRK2O7.iwi,1664269451,
+image,specialty_killjoy_zombies
+	gdt,image,specialty_killjoy_zombies,F7-42-88-ED-5C-E3-98-03-07-ED-31-12-F0-66-06-44
+	gdt,light,specialty_killjoy_zombies,
+	gdt,emblem,specialty_killjoy_zombies,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\texture_assets\specialty_killjoy_zombies.tif,1664268177,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\specialty_killjoy_zombies_POGLHPG64V5YONRXAYGPHOWCWQ.iwi,1664269039,
+image,specialty_firesale_zombies
+	gdt,image,specialty_firesale_zombies,7D-61-D7-22-FC-9D-39-C4-85-CA-B1-F2-EC-1D-E8-04
+	gdt,light,specialty_firesale_zombies,
+	gdt,emblem,specialty_firesale_zombies,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\texture_assets\specialty_firesale_zombies.tif,1664267944,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\specialty_firesale_zombies_QSBITARSTPZB2KEFYD4TB2LU7N.iwi,1664269039,
+image,specialty_2x_zombies
+	gdt,image,specialty_2x_zombies,BA-79-04-51-58-9E-89-FC-49-3B-19-EE-E0-A9-55-5E
+	gdt,light,specialty_2x_zombies,
+	gdt,emblem,specialty_2x_zombies,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\texture_assets\specialty_2x_zombies.tif,1664267910,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\assetconvert\image\v29\specialty_2x_zombies_BJTI25P53XCDESIQET7PBBT5X4.iwi,1664269039,
+texturecombo,zm_mod
+assetlist,zm_mod
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\raw\gamedata\playeranim\playeranimtypes.txt,1648526392,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\mods\offline_megas_extra\zone_source\zm_mod.zone,1664591363,e446f22f,7f56efc0,dca63a35,b014200a
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\zone_source\zm_mod.class,1648526484,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\zone_source\mod_default.class,1648526548,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\zone_source\default.class,1648526548,
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\share\zone_source\base_patch.zpkg,1648526553,5a76b7f7,40123946,eb5bedee,b0ac8d77
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\zone_source\all\assetlist\core_pre_gfx.csv,1648526740,9a291896,f3713a9b,75a0b66e,703a40af
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\zone_source\all\assetlist\core_patch.csv,1648526752,414521c8,b00c4bd2,1cb776ba,dd6e2742
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\zone_source\all\assetlist\core_gfx.csv,1648526675,eb35b869,6f0759a0,375b27d8,7e4abcbc
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\zone_source\all\assetlist\core_post_gfx.csv,1648526752,c5b160fe,8def529b,2bc851dc,de320c91
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\zone_source\all\assetlist\core_ui.csv,1648526699,6eac37ef,af745f35,9f02acd6,5ef64937
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\zone_source\all\assetlist\core_common.csv,1648522383,019dcec6,25201477,4f369f35,6e14d2d0
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\zone_source\all\assetlist\zm_common.csv,1648526773,13082a68,1dc6b820,d17e526c,1388be90
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\zone_source\all\assetlist\zm_patch.csv,1648526699,f50ca787,734c91b5,790ad58b,fcf5905b
+	file,D:\SteamLibrary\steamapps\common\Call of Duty Black Ops III\zone_source\all\assetlist\zm_levelcommon.csv,1648522383,06ed9fcc,ac94969d,4a91c987,d03f89de
+	spawn,expect,core_all
+	spawn,expect,zm_common_all
+errorcount,0
